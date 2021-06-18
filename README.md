@@ -1,9 +1,9 @@
 
 ```kotlin
 val ShengCai = developer {
-    about{
-    role = "Android Dev"
-    company = "ThoughtWorks"
+    about {
+        role = "Android Dev"
+        company = "ThoughtWorks"
     }
 }
 ```
